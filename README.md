@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working at **NCR Corporation** as a **Software Engineer Intern** on the Payment Solutions team based in Addison, TX
 - 💻 I have experience with backend and frontend web development, database management, and data analytics
 - 🏫 Education: Fourth-year Management Info systems Major at **UT Austin** with a minor in CS
-- 📫 How to reach me: 
+- 📫 Feel free to reach out or give me a follow: 
 
 <a href="https://www.linkedin.com/in/darrenhhuang/"><img align="left" src="https://raw.githubusercontent.com/dhuang97/dhuang97/main/images/linkedin.png" alt="Darren Huang | LinkedIn" width="21p"/></a>
 <a href="https://www.instagram.com/_darrenhuang_/"><img align="left" src="https://raw.githubusercontent.com/dhuang97/dhuang97/main/images/instagram.png" alt="Darren Huang | Instagram" width="21p"/></a>
