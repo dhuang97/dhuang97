@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 <a href="https://www.linkedin.com/in/darrenhhuang/"><img align="left" src="https://raw.githubusercontent.com/dhuang97/dhuang97/main/images/linkedin.png" alt="Darren Huang | LinkedIn" width="21p"/></a>
 <a href="https://www.instagram.com/_darrenhuang_/"><img align="left" src="https://raw.githubusercontent.com/dhuang97/dhuang97/main/images/instagram.png" alt="Darren Huang | Instagram" width="21p"/></a>
 <a href="mailto:darren.huang.h@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dhuang97/dhuang97/main/images/email.png" alt="Darren Huang | Email" width="21p"/></a>
-
+<br><br>
 Check out my [Personal Website!](https://darrenhuang.azurewebsites.net/)
 
 
