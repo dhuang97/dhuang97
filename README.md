@@ -7,8 +7,9 @@ Here are some ideas to get you started: -->
 
 - 😄 About me: I'm **Darren Huang**, a full stack software developer from Austin, TX
 - 🏢 I’m currently working at **NCR Corporation** as a **Software Engineer Intern** on the Payment Solutions team based in Addison, TX
-- 💻 I have experience with backend and frontend web development, database management, and data analytics
+- 💻 Skills: full stack web development, API services, database management, and data analytics
 - 🐍 Programming languages: **Python** (2+ years), **SQL** (1 year), **HTML/CSS/JS** (1+ years), some experience in **C#**, **Swift**, **R**
+- 🧰 Tools: **Git**, **Django**, **.NET**, **React**, **Bootstrap**, **Azure Cloud**, **Oracle DB**, **MySQL**
 - 🏫 Education: Fourth-year Management Info systems Major at **UT Austin** with a minor in CS
 - 📫 Feel free to reach out or give me a follow: 
 
