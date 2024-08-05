@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 😄 About me: I'm **Darren Huang**, a full stack software developer from Austin, TX
-- 🏫 Education: Fourth-year Management Info systems Major at **UT Austin** with a minor in CS
-- 🏢 I’m currently working at **NCR Corporation** as a **Software Engineer Intern** on the Payment Solutions team based in Addison, TX
+- 😄 About me: I'm **Darren Huang**, a full stack software engineer from Austin, TX
+- 🏫 Education: Graduated from **UT Austin** with a BBA in Management Information Systems and a minor in Computer Science
+- 🏢 I’m currently working at **Dell Technologies** as a **Software Engineer** on the Apex Cloud Platform team based in Round Rock, TX
 - 💻 Skills: full stack web development, API services, database management, and data analytics
 - 🐍 Programming languages: **Python** (2+ years), **SQL** (1 year), **HTML/CSS/JS** (1+ years), some experience in **C#**, **Swift**, **R**
 - 🧰 Tools: **Git**, **Django**, **.NET**, **React**, **Bootstrap**, **Azure Cloud**, **Oracle DB**, **MySQL**
